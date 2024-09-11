@@ -26,5 +26,5 @@ This navigation menu enhances user experience by providing intuitive navigation 
 Related
 
 <h3>See live Demo:</h3>
-<a href = "https://surajincode.netlify.app/">click me</a>
+<a href = "https://surajincodewd01.netlify.app/">click me</a>
 
