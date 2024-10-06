@@ -1,4 +1,4 @@
-<h1> WD Task 1 </h1>
+<h1> Simple Landing Page </h1>
 <h4> Create an interactive navi ation
 menu that changes coloro style
 when scrolled or when ho ering
